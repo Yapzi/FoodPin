@@ -1,0 +1,57 @@
+
+/* Class = "UINavigationItem"; title = "Food Pin"; ObjectID = "1FZ-th-Lfi"; */
+"1FZ-th-Lfi.title" = "Food Pin";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "7Ih-bN-XaG"; */
+"7Ih-bN-XaG.title" = "Item";
+
+/* Class = "UITextField"; placeholder = "Restaurant Name"; ObjectID = "84e-0E-9lF"; */
+"84e-0E-9lF.placeholder" = "Restaurant Name";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "FPf-DV-4JC"; */
+"FPf-DV-4JC.text" = "Type";
+
+/* Class = "UIButton"; normalTitle = "YES"; ObjectID = "Hcz-fK-ugM"; */
+"Hcz-fK-ugM.normalTitle" = "YES";
+
+/* Class = "UITextField"; placeholder = "Restaurant Location"; ObjectID = "IAL-Wn-q2M"; */
+"IAL-Wn-q2M.placeholder" = "Restaurant Location";
+
+/* Class = "UINavigationItem"; title = "New Restaurant"; ObjectID = "Me4-PP-i6M"; */
+"Me4-PP-i6M.title" = "New Restaurant";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "N5Q-dh-q2V"; */
+"N5Q-dh-q2V.text" = "Value";
+
+/* Class = "UILabel"; text = "LOCATION"; ObjectID = "XkZ-g4-Tdg"; */
+"XkZ-g4-Tdg.text" = "LOCATION";
+
+/* Class = "UIButton"; normalTitle = "NO"; ObjectID = "Yed-C2-9NG"; */
+"Yed-C2-9NG.normalTitle" = "NO";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "YmK-Ka-Rhv"; */
+"YmK-Ka-Rhv.text" = "Location";
+
+/* Class = "UILabel"; text = "TYPE"; ObjectID = "atl-Ig-qdv"; */
+"atl-Ig-qdv.text" = "TYPE";
+
+/* Class = "UITextField"; placeholder = "Restaurant Type"; ObjectID = "cLD-ZJ-ZjW"; */
+"cLD-ZJ-ZjW.placeholder" = "Restaurant Type";
+
+/* Class = "UILabel"; text = "VISITED"; ObjectID = "dUK-Lk-p4V"; */
+"dUK-Lk-p4V.text" = "VISITED";
+
+/* Class = "UILabel"; text = "Field"; ObjectID = "gRx-at-6HE"; */
+"gRx-at-6HE.text" = "Field";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "gYm-fF-0B7"; */
+"gYm-fF-0B7.text" = "Name";
+
+/* Class = "UILabel"; text = "NAME"; ObjectID = "pJq-qQ-Kjc"; */
+"pJq-qQ-Kjc.text" = "NAME";
+
+/* Class = "UIButton"; normalTitle = "Rating"; ObjectID = "pgV-2t-LLU"; */
+"pgV-2t-LLU.normalTitle" = "Rating";
+
+/* Class = "UILabel"; text = "You've dined here.       What did you think?"; ObjectID = "tEp-0x-WJd"; */
+"tEp-0x-WJd.text" = "You've dined here.       What did you think?";
